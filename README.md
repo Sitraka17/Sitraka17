@@ -3,7 +3,7 @@
 - 👀 I’m interested in Statistics and Economics thus in DATA SCIENCE! (with a lot of love for economics)
 - 🌱 I’m currently learning SQL at an expert level, Python in order to be good at it and Mathematics
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me [Linkedin](https://www.linkedin.com/in/sitraka-matthieu-forler/ )
+- 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/sitraka-matthieu-forler/ )
 
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
