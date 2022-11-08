@@ -6,6 +6,6 @@
 - 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/sitraka-matthieu-forler/ )
 
 <!---
-Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+Hello reader! Hope to find you well :)
 --->
