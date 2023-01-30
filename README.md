@@ -8,7 +8,7 @@
 
 
 
-- 2023 Objectives: 
+> 2023 Objectives: 
 Become a Contributor then an Expert in [Kaggle](https://www.kaggle.com/progression). 
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
