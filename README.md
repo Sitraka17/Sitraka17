@@ -1,3 +1,4 @@
+# Presentation
 - 👋 Hi, I’m @Sitraka17 aka [Sitraka FORLER](https://www.sitraka.fr/)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 - 👀 I’m interested in Statistics and Economics thus in DATA SCIENCE! (with a lot of love for economics)
@@ -7,9 +8,10 @@
 
 
 
+# Objectives 
 
-> 2023 Objectives: 
-Become a Contributor then an Expert in [Kaggle](https://www.kaggle.com/progression). 
+- Become a Contributor then an Expert in [Kaggle](https://www.kaggle.com/progression). 
+- Share ML articles 
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 Hello reader! Hope to find you well :)
