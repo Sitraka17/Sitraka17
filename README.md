@@ -13,8 +13,6 @@
 - Become a Contributor then an Expert in [Kaggle](https://www.kaggle.com/progression). 
 - Share ML articles 
 
-
-![Objectives!](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/WA_80_cm_archery_target.svg/300px-WA_80_cm_archery_target.svg.png)
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 Hello reader! Hope to find you well :)
