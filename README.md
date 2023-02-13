@@ -12,6 +12,15 @@
 
 - Become a Contributor ✅
 ---- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/progression). 
+<!--- Competitions
+Datasets
+Notebooks
+Discussions
+bronze 2 bronze medals
+bronze 3 bronze medals
+bronze 5 bronze medals
+bronze 50 bronze medals ---> 
+
 - Share ML articles 
 
 
