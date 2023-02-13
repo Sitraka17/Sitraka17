@@ -10,7 +10,7 @@
 
 # Objectives 
 
-- Become a Contributor 
+- Become a Contributor ✅
 ---- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/progression). 
 - Share ML articles 
 
