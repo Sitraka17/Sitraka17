@@ -24,7 +24,7 @@ There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly fe
 - Share ML articles 
 
 
-- Finish CS50 by April 2023
+- Finish CS50 by MAY  2023
 
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
