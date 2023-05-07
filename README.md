@@ -10,7 +10,7 @@
 
 # Objectives 
 
-- Become a Contributor ✅
+- Become a Contributor c
 ---- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew). 
 <!--- 
 Competitions 🥉🥉...hum
@@ -25,6 +25,7 @@ There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly fe
 
 
 - Finish CS50 by MAY  2023
+-  this means Lab 9 
 
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
