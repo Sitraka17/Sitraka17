@@ -11,7 +11,7 @@
 # Objectives 
 
 - Become a Contributor c
----- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! Alléluia !!! 
+---- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!! 
 <!--- 
 Competitions 🥉🥉...hum
 Datasets 🥉🥉🥉... Malagasy cities ? ; Calvin Boubakar le prof là esh étudiants; Churchs ? 
