@@ -10,7 +10,7 @@
 
 # Objectives 
 
-- Become a Contributor c
+- Become a Contributor
 ---- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!! 
 <!--- 
 Competitions 🥉🥉...hum
