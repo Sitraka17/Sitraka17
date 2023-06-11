@@ -21,7 +21,7 @@ Notebooks 🥉🥉🥉🥉🥉 ...DAM 5 ?
 There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly feasible héhé :D
 ---> 
 
--Share ML articles 
+- Share ML articles 
 
 
 - Finish CS50 by MAY  2023
