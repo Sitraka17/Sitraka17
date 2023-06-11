@@ -25,7 +25,7 @@ There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly fe
 
 
 - Finish CS50 by MAY  2023
--  this means Lab 9 
+--  this means Lab 9 
 
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
