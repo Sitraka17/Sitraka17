@@ -24,7 +24,7 @@ There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly fe
 - Share ML articles 
 
 
-- Finish CS50 by MAY  2023
+- Finish CS50 by Summer  2023
 --  this means Lab 9 
 
 <!---
