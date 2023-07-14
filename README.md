@@ -18,7 +18,7 @@ or [here](https://sitraka17.github.io/)
 Competitions 🥉🥉...hum
 Datasets 🥉🥉🥉... Malagasy cities ? ; Calvin Boubakar le prof là esh étudiants; Churchs ? 
 Notebooks 🥉🥉🥉🥉🥉 ...DAM 5 ? 
- 
+
 There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly feasible héhé :D
 ---> 
 - Share ML articles 
