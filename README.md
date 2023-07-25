@@ -8,8 +8,6 @@
 or [here](https://sitraka17.github.io/)
 
 
-
-
 # Objectives 
 
 - Become a Contributor
