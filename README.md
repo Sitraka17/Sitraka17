@@ -19,9 +19,8 @@ Notebooks 🥉🥉🥉🥉🥉 ...DAM 5 ?
 
 There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly feasible héhé :D
 ---> 
-- Share ML articles 
-
-(well I first need to understand more HOW it works) 
+- Share ML articles
+- UML Valencia
 - Finish CS50 by Summer  2023
 --  this means Lab 9 
 <!---
