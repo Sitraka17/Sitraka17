@@ -18,9 +18,7 @@ Notebooks 🥉🥉🥉🥉🥉 ...DAM 5 ?
 
 There are 407 kaggle Grandmasters.  BUT 12,851 kaggle Experts so it's clearly feasible héhé :D
 ---> 
-- Share ML articles
-- UML Valencia
-- Finish CS50_2023
+
 <!---
 Sitraka17/Sitraka17 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 Hello reader! Hope to find you well :)
