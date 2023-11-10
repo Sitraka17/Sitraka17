@@ -7,6 +7,8 @@
 - 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/sitraka-matthieu-forler/ )
 or [here](https://sitraka17.github.io/)
 
+This is a personnal account and all its folders are for fun :) 
+
 # Objectives 
 
 - Become a Contributor
