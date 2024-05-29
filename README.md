@@ -9,7 +9,6 @@ or [here](https://sitraka17.github.io/)
 
 This is a personnal account and all its folders are for fun :) 
 
-Rip GitHub 🉑
 
 # Objectives 
 
