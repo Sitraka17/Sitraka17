@@ -13,11 +13,12 @@ This is a personnal account and all its folders are for fun :)
 PS: try this app : https://boldonlinkedin-to1gwllzmfs.streamlit.app/
 
 # Objectives 
-
-- Become a Contributor
----- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!!
-
   SAAS ? It is trendy
+
+
+# Achievements: 
+  
+- Kaggle : Become a Contributor ->  then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!!
   
 <!--- 
 Competitions 🥉🥉...hum
