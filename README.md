@@ -15,7 +15,10 @@ PS: try this app : https://boldonlinkedin-to1gwllzmfs.streamlit.app/
 # Objectives 
 
 - Become a Contributor
----- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!! 
+---- > then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!!
+
+  SAAS ? It is trendy
+  
 <!--- 
 Competitions 🥉🥉...hum
 Datasets 🥉🥉🥉... Malagasy cities ? ; Calvin Boubakar le prof là esh étudiants; Churchs ? 
