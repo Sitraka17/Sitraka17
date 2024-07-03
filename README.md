@@ -11,6 +11,8 @@ This is a personnal account and all its folders are for fun :)
 
 
 PS: try this app : https://boldonlinkedin-to1gwllzmfs.streamlit.app/
+Making a app for events
+
 
 # Objectives 
   SAAS ? It is trendy
