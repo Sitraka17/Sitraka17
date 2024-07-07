@@ -16,8 +16,7 @@ Making a app for events
 
 
 # Objectives 
-  SAAS ? It is trendy
-
+  SAAS ? It is trendy...and WOW Marc Lou !!!! 🤩 
 
 # Achievements: 
   
