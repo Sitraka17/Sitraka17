@@ -12,7 +12,9 @@ This is a personnal account and all its folders are for fun :)
 
 PS: try this app : https://boldonlinkedin-to1gwllzmfs.streamlit.app/
 
-Making a app for events
+Making a app for events +++ 
+It will be called "WhatsNOW?"
+
 
 
 # Objectives 
