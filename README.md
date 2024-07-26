@@ -18,9 +18,11 @@ It will be called "WhatsNOW?"
 
 
 # Objectives 
-  SAAS ? It is trendy...and WOW Marc Lou !!!! 🤩 
+1) SAAS ? It is trendy...and WOW Marc Lou !!!! 🤩
 
-Centrale Marseille.   
+2) Centrale Marseille
+
+3) Machin
 
 # Achievements: 
   
