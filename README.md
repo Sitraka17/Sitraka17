@@ -10,7 +10,7 @@ or [here](https://sitraka17.github.io/)
 This is a personnal account and all its folders are for fun :) 
 
 
-PS: try this app : https://boldonlinkedin-to1gwllzmfs.streamlit.app/
+PS: Bold on linkedin :  https://boldonlinkedin-to1gwllzmfs.streamlit.app/
 
 Making a app for events +++ 
 It will be called "WhatsNOW?"
