@@ -22,7 +22,7 @@ It will be called "WhatsNOW?"
 
 2) Centrale Marseille
 
-3) Machin
+3) Machine Learning
 
 # Achievements: 
   
