@@ -30,7 +30,7 @@ It will be called "WhatsNOW?"
   
 - Kaggle : Become a Contributor ->  then an ✨Expert✨ in [Kaggle](https://www.kaggle.com/sitrakamatthew).  !!!! [Alléluia](https://www.kaggle.com/discussions/general/410189) !!!
 
-- Streamlit BOLD: ([https://boldonlinkedin-to1gwllzmfs.streamlit.app/](https://textformat.streamlit.app/))
+- Streamlit BOLD: ([A_Super_site](https://textformat.streamlit.app/))
 
 
 <!--- 
