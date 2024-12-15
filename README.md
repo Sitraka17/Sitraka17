@@ -11,7 +11,7 @@ This is a personnal account and all its folders are for fun :)
 
 
 Cool stuff online: 
-1) Personal website : [sitraka.fr](https://www.sitraka.fr/) and https://sitraka17.github.io/ 
+1) Personal website : [sitraka.fr](https://www.sitraka.fr/)
 2) Bold on linkedin :  [TextFORMAT.co](https://textformat.streamlit.app/)
 3) GitHub.io : [Personal Reactive Website](https://sitraka17.github.io/)
 
