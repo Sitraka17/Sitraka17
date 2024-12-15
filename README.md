@@ -23,7 +23,7 @@ It will be called "WhatsNOW?"
 # Objectives 
 1) SAAS ? It is trendy...and WOW Marc Lou !!!! 🤩
 
-2) Centrale Marseille (November 2024) 
+2) Centrale Marseille
 
 3) Machine Learning
 
