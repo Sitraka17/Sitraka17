@@ -13,6 +13,7 @@ This is a personnal account and all its folders are for fun :)
 Cool stuff online: 
 1) Personal website : [sitraka.fr](https://www.sitraka.fr/) and https://sitraka17.github.io/ 
 2) Bold on linkedin :  [TextFORMAT.co](https://textformat.streamlit.app/)
+3) GitHub.io : [Personal Reactive Website](https://sitraka17.github.io/)
 
 Making a app for events +++ 
 It will be called "WhatsNOW?"
@@ -25,6 +26,8 @@ It will be called "WhatsNOW?"
 2) Centrale Marseille (November 2024) 
 
 3) Machine Learning
+
+
 
 # Achievements: 
   
