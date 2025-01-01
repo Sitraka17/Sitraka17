@@ -35,6 +35,8 @@ It will be called "WhatsNOW?"
 
 - Streamlit BOLD: ([A_Super_site](https://textformat.streamlit.app/))
 
+- Youtube: https://www.youtube.com/@sitrakaforler8696
+
 
 <!--- 
 Competitions 🥉🥉...hum
