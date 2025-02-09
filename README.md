@@ -17,7 +17,7 @@ Cool stuff online:
 
 Making a app for events +++ 
 It will be called "WhatsNOW?"
-
+Or WhatzNext?!
 
 
 # Objectives 
