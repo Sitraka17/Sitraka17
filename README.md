@@ -18,6 +18,7 @@ Cool stuff online:
 Making a app for events +++ 
 It will be called "WhatsNOW?"
 Or WhatzNext?!
+          so .... a simple add or app to help to focus :) 
 
 
 # Objectives 
