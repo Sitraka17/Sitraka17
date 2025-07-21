@@ -8,7 +8,8 @@
 or [here](https://sitraka17.github.io/)
 
 This is a personnal account and all its folders are for fun :) 
-All professionnals projects are on XXXXX
+
+All professionnals projects are on pro repos haha
 
 Cool stuff online:
 =====================
