@@ -38,7 +38,7 @@ Or WhatzNext?!
 
 - Streamlit BOLD: ([A_Super_site](https://textformat.streamlit.app/))
 
-- Youtube: https://www.youtube.com/@sitrakaforler8696
+- Youtube: [Youtube_sitrakaforler1896](https://www.youtube.com/@sitrakaforler1896)
 
 
 
