@@ -24,11 +24,11 @@ Or WhatzNext?!
 
 
 # Objectives 
-1) SAAS ? It is trendy...and WOW Marc Lou !!!! 🤩
+1) Teaching about Machine Learning
 
 2) Centrale Marseille
 
-3) Machine Learning
+3) Finance
 
 
 
