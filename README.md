@@ -49,8 +49,3 @@ I am highly interested in the intersection of **Statistics, Economics, and Data 
   <a href="https://github.com/neovim" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /></a>
 </p>
-asset_metadata = pd.DataFrame({
-    'Asset_ID': ['A1', 'A2', 'A3', 'A4', 'A5'],
-    'Full_Name': ['Apple Inc', 'JP Morgan', 'Microsoft', 'Exxon Mobil', 'Goldman Sachs'],
-    'Country': ['USA', 'USA', 'USA', 'USA', 'USA']
-})
